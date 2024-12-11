@@ -1,0 +1,183 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+#marginDiv  {
+   padding: 64px 158px;
+}
+
+
+#mainDiv {
+   
+    background: #E2F7FF;
+    width: 100%;
+    margin: 0 auto;
+    padding: 96px;
+}
+
+#childDiv {
+    padding: 0 32px;
+    margin: 0 auto;
+    max-width: 1280px;
+}
+
+#headerDiv {
+    margin-bottom: 64px;
+}
+
+#mainImg {
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+#dateP {
+    color: #6941C6;
+    font-size: 14px;
+    margin-bottom: 8px;
+
+}
+
+h1{
+    font-size: 30px;
+    margin-bottom: 8px;
+}
+
+#headDiv {
+    width: 1176px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#arrowImg {
+    vertical-align: middle;
+}
+
+#imgP {
+    color: #535862;
+    font-size: 16px;
+    margin-bottom: 24px;
+}
+
+#imgButtonOne, #ButtonThreeOne, #ButtonFiveOne, #ButtonSixOne {
+    border-radius: 9999px;
+    border: 1px solid #E9D7FE;
+    background: #F9F5FF;
+    padding: 8px 16px;
+    color: #6941C6;
+    font-size: 14px;
+}
+
+
+#imgButtonTwo, #ButtonFourTwo, #ButtonFiveTwo, #ButtonSixTwo {
+    border-radius: 9999px;
+    border: 1px solid #C7D7FE;;
+    background: #EEF4FF;;
+    padding: 8px 16px;
+    color: #3538CD;
+    font-size: 14px;
+    margin-left: 8px;
+}
+
+#imgButtonThree, #ButtonOneTwo, #ButtonOneThree, #ButtonTwoTwo{
+    border-radius: 9999px;
+    border: 1px solid #FCCEEE;
+    background: #FDF2FA;
+    padding: 8px 16px;
+    color: #C11574;
+    font-size: 14px;
+    margin-left: 8px;
+}
+
+#cardOneDiv, #cardTwoDiv, #cardFourDiv,  #cardFiveDiv  {
+    width: 384px;
+    display: inline-block;
+    margin-right: 28px;
+    margin-bottom: 48px;
+    vertical-align: middle;
+}
+
+#cardThreeDiv, #cardSixDiv {
+    display: inline-block;
+    width: 384px;
+    margin-bottom: 48px;
+    vertical-align: middle;
+    
+}
+
+#cardSixDiv {
+    margin-top: 25px;
+}
+
+
+
+#cardDateOne, #cardDateTwo, #cardDateThree, #cardDateFour, #cardDateFive, #cardDateSix {
+    margin: 20px 0 8px 0;
+    color: #6941C6;
+    font-size: 14px;
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 8px;
+}
+
+#hDivOne, #hDivTwo, #hDivThree, #hDivFour, #hDivFive, #hDivSix {
+    width: 344px;
+    display: inline-block;
+    vertical-align: middle;
+    
+}
+
+#arrowOne, #arrowTwo, #arrowThree, #arrowFour, #arrowFive, #arrowSix {
+    vertical-align: middle;
+    margin-bottom: 8px;
+    margin-left: 12px;
+    
+}
+
+#pOne, #pTwo, #pThree, #pFour, #pFive, #pSix {
+    color: #535862;
+    font-size: 16px;
+    margin-bottom: 24px;
+}
+
+#ButtonOneOne {
+    border-radius: 9999px;
+    border: 1px solid #B9E6FE;
+    background: #F0F9FF;
+    padding: 8px 16px;
+    color: #026AA2;
+    font-size: 14px;
+}
+
+#ButtonTwoOne, #ButtonFourOne {
+    border-radius: 9999px;
+    border: 1px solid #ABEFC6;
+    background: #ECFDF3;
+    padding: 8px 16px;
+    color: #067647;
+    font-size: 14px;
+}
+
+#ButtonThreeTwo{
+    border-radius: 9999px;
+    border: 1px solid #D5D9EB;
+    background: #F8F9FC;
+    padding: 8px 16px;
+    color: #363F72;
+    font-size: 14px;
+
+}
+
+#ButtonFourThree {
+    border-radius: 9999px;
+    border: 1px solid #F9DBAF;
+    background: #FEF6EE;
+    padding: 8px 16px;
+    color: #B93815;
+    font-size: 14px;
+    margin-left: 8px;
+}
