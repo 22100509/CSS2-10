@@ -2,11 +2,12 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    text-decoration: none;
 }
 
 
 #marginDiv  {
-   padding: 64px 158px;
+   padding: 64px auto;
 }
 
 
@@ -61,13 +62,19 @@ h1{
     margin-bottom: 24px;
 }
 
-#imgButtonOne, #ButtonThreeOne, #ButtonFiveOne, #ButtonSixOne {
+#imgButtonOne, #ButtonThreeOne, #ButtonFiveOne, #ButtonSixOne
+
+ {
     border-radius: 9999px;
     border: 1px solid #E9D7FE;
     background: #F9F5FF;
     padding: 8px 16px;
     color: #6941C6;
     font-size: 14px;
+}
+
+#aOne, #aThreeOne, #FiveOne, #SixOne {
+    color: #6941C6;
 }
 
 
@@ -81,6 +88,10 @@ h1{
     margin-left: 8px;
 }
 
+#aTwo, #aFourTwo, #aFiveTwo, #aSixTwo{
+    color: #3538CD;
+}
+
 #imgButtonThree, #ButtonOneTwo, #ButtonOneThree, #ButtonTwoTwo{
     border-radius: 9999px;
     border: 1px solid #FCCEEE;
@@ -89,6 +100,10 @@ h1{
     color: #C11574;
     font-size: 14px;
     margin-left: 8px;
+}
+
+#aThree, #aOneTwo, #aOneThree, #aTwoTwo  {
+    color: #C11574; 
 }
 
 #cardOneDiv, #cardTwoDiv, #cardFourDiv,  #cardFiveDiv  {
@@ -153,6 +168,10 @@ h2 {
     font-size: 14px;
 }
 
+#aOneOne {
+    color: #026AA2;
+}
+
 #ButtonTwoOne, #ButtonFourOne {
     border-radius: 9999px;
     border: 1px solid #ABEFC6;
@@ -160,6 +179,10 @@ h2 {
     padding: 8px 16px;
     color: #067647;
     font-size: 14px;
+}
+
+#aTwoOne, #aFourOne {
+    color: #067647;
 }
 
 #ButtonThreeTwo{
@@ -172,6 +195,10 @@ h2 {
 
 }
 
+#aThreeTwo {
+    color: #363F72;
+}
+
 #ButtonFourThree {
     border-radius: 9999px;
     border: 1px solid #F9DBAF;
@@ -180,4 +207,8 @@ h2 {
     color: #B93815;
     font-size: 14px;
     margin-left: 8px;
+}
+
+#aFourThree {
+    color: #B93815;
 }
